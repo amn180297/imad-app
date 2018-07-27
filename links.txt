@@ -1,1 +1,40 @@
 https://github.com/srinivaskolaparthi/FreshersHyd260118
+---------------------------------------------------------------------------------------------------------------
+html5test.com    // to check browser score
+
+https://kangax.github.io/
+
+poyfills in html5     //browser fallback  // get polyfills from github 
+
+--------------------------------------------------------------------------------------------------------------
+javascript is single threaded, 
+oop in javascript use typescript/coeffe script/dart
+js does not support db
+js do not provide I/O operation
+js is very poor in exception handling to overcome use extension
+js is not secure, script injections
+js does not support security algo. But support jaas/kerberos/oauth/saml/json tokens==== for sso
+
+
+to overcome above problem ue NODEJS
+
+---------------------------------------------------------------------------------------------------------------
+learn
+eval    arraysinjs    loops   json and basic func   string    isNan
+
+---------------------------------------------------------------------------------------------------------------
+javaScript Engines
+
+spider monkey(Mozilla), v8(google), nitro(apple), chakra(microsoft IE)
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
