@@ -6,6 +6,12 @@ https://kangax.github.io/
 
 poyfills in html5     //browser fallback  // get polyfills from github 
 
+learn firebug
+
+content management system ex- adobe
+
+Scrapping
+
 --------------------------------------------------------------------------------------------------------------
 javascript is single threaded, 
 oop in javascript use typescript/coeffe script/dart
