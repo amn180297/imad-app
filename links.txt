@@ -21,6 +21,8 @@ http headers
 
 Corporate Repo // Nexus Sonatype
 
+Retention Policy
+
 --------------------------------------------------------------------------------------------------------------
 javascript is single threaded, 
 oop in javascript use typescript/coeffe script/dart
@@ -96,6 +98,8 @@ Selinium+TDD+BDD+Devops Rules             //selinium for automation, selinium us
 feature file-> Step defination file  ~ test case ~ tdd file     //preety compiler
 
 data tables   //
+
+
                                        
                                        
 
