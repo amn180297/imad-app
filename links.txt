@@ -1,4 +1,5 @@
 https://github.com/srinivaskolaparthi/FreshersHyd260118
+https://github.com/kolaparthisrini
 ---------------------------------------------------------------------------------------------------------------
 html5test.com    // to check browser score
 
@@ -11,6 +12,14 @@ learn firebug
 content management system ex- adobe
 
 Scrapping
+
+owasp.org to check software security
+
+AntiSamy Rules 
+
+http headers
+
+Corporate Repo // Nexus Sonatype
 
 --------------------------------------------------------------------------------------------------------------
 javascript is single threaded, 
@@ -26,7 +35,7 @@ to overcome above problem ue NODEJS
 
 ---------------------------------------------------------------------------------------------------------------
 learn
-eval    arraysinjs    loops   json and basic func   string    isNan
+eval    arrays in js    loops   json and basic func   string    isNan
 
 ---------------------------------------------------------------------------------------------------------------
 javaScript Engines
@@ -34,13 +43,61 @@ javaScript Engines
 spider monkey(Mozilla), v8(google), nitro(apple), chakra(microsoft IE)
 
 ---------------------------------------------------------------------------------------------------------------
+Learn
 
 
+Filter for antisamy
+session migration
+script injection
+session invalidation
+
+CORS              
+{
+    OWASP CSRFGuard Projects  
+    Null Dereference
+    Hibernate Guidlines
+    Return Inside Finally Block
+    Logout
+    Missing Error Handling
+}
+
+LOG4 or SL4J
+Sonrqube java api
+Maven
+MAven Profile   \\for sonarqube sonar is profile    //sonar:sonar  ~(clean install)
+---------------------------------------------------------------------------------------------------------------
 
 
+SonarQube use jetty as server
+
+Avoid SOP, Use LOG4 or SL4J   
+cloud:- Loggy, sentry, AWS Logservice
+
+sonarqube default port 9000   //can change in sonar properties in config folder
 
 
 
 ---------------------------------------------------------------------------------------------------------------
 
+                                              BDD
+                                       -----------------------
+                                       
+                                       
+TDD:-     Junit/TestNg
+          Mockito                  //deals with dummy object                //no static concept
+          Power Mockito
+
+BDD:-   Cucumber or Specflow
+
+
+Selinium+TDD+BDD+Devops Rules             //selinium for automation, selinium used for webapplication
+
+
+feature file-> Step defination file  ~ test case ~ tdd file     //preety compiler
+
+data tables   //
+                                       
+                                       
+
+---------------------------------------------------------------------------------------------------------------
 
