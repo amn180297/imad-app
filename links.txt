@@ -163,5 +163,23 @@ Black & White Box Testing
 
 
 ---------------------------------------------------------------------------------------------------------------
+                                                    Selenium
+                                           ---------------------------
+Web Application Development
+
+Selinium Rc
+Selinium Grid
+Selinium core
+Selinium  Ide
+
+
+But Sikuli is for both web and desktop
+
+Diff Web Driver(Executable Jar file) for diff browser provided by selinium
+
+
+
+---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 
 
