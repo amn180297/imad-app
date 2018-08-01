@@ -150,6 +150,16 @@ DailyRollingFileAppender            //to take log on daily basis
 
 ---------------------------------------------------------------------------------------------------------------
 
+                                            MANUAL TESTING
+                                      ----------------------------
+
+Regression Testing
+UAT 
+Load Testing
+Unit Testing
+SMOKE Testing
+Black & White Box Testing
+
 
 
 ---------------------------------------------------------------------------------------------------------------
