@@ -119,8 +119,39 @@ JNI/JNLP
 ---------------------------------------------------------------------------------------------------------------
 CloudBees and Digital Ocean are advanced versions of jenkins
 
+---------------------------------------------------------------------------------------------------------------
+                                                Log4J
+                                           -------------------------
+i/o     -> Nio used by log4j1       -> Nio2(resourse utilization is good) used by log4j2
+
+sop is heavy weight it creates 3 references in bg       //heap issue        -> loggin
+
+system(in,out,error)
+message(log modes->(info,warning,error,fatal,trace))
+
+log4j1(based on java 1.6)
+
+log4j       -> log4j.properties  //no inheritance here as pom.xml
+maven       -> pom.xml
+
+Logger  logger = Logger.getLogger("class name");        //creating object
+logger.setLevel(Level.INFO);                             //setting mode   
+log4j.rootLogger=DEBUG, A1                        //setting mode  can also be done through properties file
+
+log4j.appender.A1=org.apache.log4j.ConsoleAppender          // where to move the logs
+
+
+to display log msg  (logMode+timestamp+lineno)   <-Pattern layout
+DailyRollingFileAppender            //to take log on daily basis
+
+
 
 
 
 ---------------------------------------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
 
