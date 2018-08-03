@@ -204,5 +204,24 @@ Diff Web Driver(Executable Jar file) for diff browser provided by selinium
 
 
 ---------------------------------------------------------------------------------------------------------------
+Connection Pooling		//middleware service
+
+C3PO
+DBCP		//
+Service side con pooling
+
+or use
+Spring Jdbc
+Spring Dao
+Spring Jpa
 
 
+---------------------------------------------------------------------------------------------------------------
+Apache POI
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------
