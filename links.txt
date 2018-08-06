@@ -219,9 +219,25 @@ Spring Jpa
 ---------------------------------------------------------------------------------------------------------------
 Apache POI
 
+---------------------------------------------------------------------------------------------------------------
+Cucumber Hooks
+Selinium Topics
+Selinium Jenkins Integration
+Testing
 
+
+Shutdown hooks		
+Mark and sweep		// Garbage collector algo
+Singleton design pattern
+
+
+object class methods()
+-wait (single para, without para, 2 para) 
 
 
 
 
 ---------------------------------------------------------------------------------------------------------------
+
+
+
