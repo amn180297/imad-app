@@ -250,7 +250,12 @@ cucumber java 1.2.0
 cucumber junit 1.2.0
 selenium java  3.4.0
 ---------------------------------------------------------------------------------------------------------------
-
-
+4 approch +groovy
+Accutators
+Spring boot Rest-->Api  design->RAML/Swagger
+spring boot dependency is called staters
+spring+automation<->spring boot
+application.properties
+devtools
 
 
